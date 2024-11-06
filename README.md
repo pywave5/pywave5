@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i am <a href="https://t.me/pywave">pywave</a>
 
 <!--
 **pywave5/pywave5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
